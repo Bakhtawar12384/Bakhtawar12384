@@ -3,8 +3,6 @@
 <p>
   I'm <strong>Bakhtawar Ilyas</strong>, an undergraduate <strong>Cybersecurity student at FAST NUCES</strong> and an AI enthusiast with hands-on experience in 
   <strong>incident response</strong>, <strong>threat detection</strong>, and <strong>vulnerability assessment</strong>.<br>
-  I enjoy combining AI with cybersecurity to build practical, real-world tools from <em>log analysis bots</em> to <em>secure communication frameworks</em>.<br>
-  <strong>Always curious, always learning.</strong>
 </p>
 
 <hr>
