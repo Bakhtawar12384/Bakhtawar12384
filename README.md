@@ -5,17 +5,6 @@
   <strong>incident response</strong>, <strong>threat detection</strong>, and <strong>vulnerability assessment</strong>.<br>
 </p>
 
-<hr>
-
-<!-- Core Focus -->
-<h2> Core Focus Areas</h2>
-<ul>
-  <li>🛡️ <strong>Incident Response & Forensics</strong> – Configured secure networks using <code>pfSense</code>, <code>Suricata</code>, and <code>Wazuh</code> for real-time log monitoring and attack simulation.</li>
-  <li>🤖 <strong>AI for Security</strong> – Developed <em>AI-based log analyzers</em> and <em>vulnerability scoring systems</em> using Python & NLP.</li>
-  <li>🧠 <strong>ZTNA Research</strong> – Worked on <em>SEC T</em>, a secure transmission tool over TCP/UDP, contributing to Zero Trust frameworks.</li>
-</ul>
-
-<hr>
 
 <!-- Projects -->
 <h2> Featured Projects</h2>
