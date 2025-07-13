@@ -15,13 +15,12 @@
   <li>🛡️ <strong>Incident Response & Forensics</strong> – Configured secure networks using <code>pfSense</code>, <code>Suricata</code>, and <code>Wazuh</code> for real-time log monitoring and attack simulation.</li>
   <li>🤖 <strong>AI for Security</strong> – Developed <em>AI-based log analyzers</em> and <em>vulnerability scoring systems</em> using Python & NLP.</li>
   <li>🧠 <strong>ZTNA Research</strong> – Worked on <em>SEC T</em>, a secure transmission tool over TCP/UDP, contributing to Zero Trust frameworks.</li>
-  <li>🔍 <strong>Secure Web Scanning</strong> – Created <em>Secure Scan</em>, a TLS/SSL analyzer using <code>SSLScan</code> and <code>TestSSL</code>.</li>
 </ul>
 
 <hr>
 
 <!-- Projects -->
-<h2>🧠 Featured Projects</h2>
+<h2> Featured Projects</h2>
 <ul>
   <li><strong>AI Chatbot for Windows EventLog Analysis</strong> – Python NLP chatbot for forensic investigation.</li>
   <li><strong>Incident Detection Lab</strong> – End-to-end attack detection with Wazuh, Suricata & pfSense.</li>
@@ -51,7 +50,7 @@
   <img src="https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge&logo=logstash&logoColor=white" />
 </p>
 
-<h3>🧠 AI & Web Tools</h3>
+<h3> AI & Web Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
