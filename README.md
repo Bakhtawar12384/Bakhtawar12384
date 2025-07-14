@@ -13,7 +13,7 @@
   <li><strong>Incident Detection Lab</strong> – End-to-end attack detection with Wazuh, Suricata & pfSense.</li>
   <li><strong>AI Vulnerability Prioritization</strong> – Automated system to rank OS/network threats by severity.</li>
   <li><strong>Filmception</strong> – ML tool that translates and classifies movie summaries by genre.</li>
-  <li><strong>Secure Scan</strong> – Web-based SSL/TLS security scanner built during internship.</li>
+  
 </ul>
 
 <hr>
@@ -61,4 +61,4 @@
   <li>📧 <a href="mailto:bakhtawarilyas10@gmail.com">bakhtawarilyas10@gmail.com</a></li>
 </ul>
 
-<p>Let’s build something secure and smart! 🚀</p>
+
