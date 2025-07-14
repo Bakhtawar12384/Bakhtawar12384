@@ -19,9 +19,9 @@
 <hr>
 
 <!-- Tech Stack -->
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
-<h3>✨ Programming Languages</h3>
+<h3> Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<h3>🔐 Security Tools & Concepts</h3>
+<h3> Security Tools & Concepts</h3>
 <p>
   <img src="https://img.shields.io/badge/Wazuh-0261AA?style=for-the-badge&logo=elasticstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Suricata-F16822?style=for-the-badge&logo=suricata&logoColor=white" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/NLP-5E97D0?style=for-the-badge&logo=spaCy&logoColor=white" />
 </p>
 
-<h3>⚙️ Tools & DevOps</h3>
+<h3> Tools & DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -54,10 +54,10 @@
 <hr>
 
 <!-- Contact -->
-<h2>📫 Let’s Connect</h2>
+<h2> Let’s Connect</h2>
 <ul>
   <li>🔗 <a href="https://www.linkedin.com/in/bakhtawar-ilyas-b68639256/">LinkedIn</a></li>
-  <li>💻 <a href="https://github.com/Bakhtawar12384">GitHub</a></li>
+  <li> <a href="https://github.com/Bakhtawar12384">GitHub</a></li>
   <li>📧 <a href="mailto:bakhtawarilyas10@gmail.com">bakhtawarilyas10@gmail.com</a></li>
 </ul>
 
