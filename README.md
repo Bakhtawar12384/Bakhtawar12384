@@ -57,9 +57,9 @@ c  <img src="https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge&logo=l
 <!-- Contact -->
 <h2> Let’s Connect</h2>
 <ul>
-  <li>🔗 <a href="https://www.linkedin.com/in/bakhtawar-ilyas-b68639256/">LinkedIn</a></li>
+  <li> <a href="https://www.linkedin.com/in/bakhtawar-ilyas-b68639256/">LinkedIn</a></li>
   <li> <a href="https://github.com/Bakhtawar12384">GitHub</a></li>
-  <li>📧 <a href="mailto:bakhtawarilyas10@gmail.com">bakhtawarilyas10@gmail.com</a></li>
+  <li> <a href="mailto:bakhtawarilyas10@gmail.com">bakhtawarilyas10@gmail.com</a></li>
 </ul>
 
 
