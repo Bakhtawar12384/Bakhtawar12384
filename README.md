@@ -7,7 +7,7 @@
 
 
 <!-- Projects -->
-<h2> Featured Projects</h2>
+<h2> Projects</h2>
 <ul>
   <li><strong>AI Chatbot for Windows EventLog Analysis</strong> – Python NLP chatbot for forensic investigation.</li>
   <li><strong>Incident Detection Lab</strong> – End-to-end attack detection with Wazuh, Suricata & pfSense.</li>
