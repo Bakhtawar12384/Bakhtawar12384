@@ -34,15 +34,16 @@
   <img src="https://img.shields.io/badge/Wazuh-0261AA?style=for-the-badge&logo=elasticstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Suricata-F16822?style=for-the-badge&logo=suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-22314E?style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge&logo=logstash&logoColor=white" />
+c  <img src="https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge&logo=logstash&logoColor=white" />
 </p>
-
-<h3> AI & Web Tools</h3>
+<h3>AI & Machine Learning</h3>
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-5E97D0?style=for-the-badge&logo=spaCy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-
 <h3> Tools & DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
